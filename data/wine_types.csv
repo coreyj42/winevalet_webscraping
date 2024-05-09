@@ -1,94 +1,97 @@
 type,count
-shiraz,217
-chardonnay,123
-cabernet sauvignon,106
-pinot noir,79
+shiraz,218
+chardonnay,124
+cabernet sauvignon,120
+pinot noir,83
 sauvignon blanc,64
-chardonnay pinot noir blend,44
-riesling,41
-rose,41
-red blend,35
-merlot,26
-cabernet sauvignon merlot blend,24
-cabernet sauvignon shiraz blend,24
-grenache,23
+riesling,43
+rose,42
+chardonnay pinot noir,31
+merlot,28
+grenache,25
+cabernet sauvignon merlot,24
+cabernet sauvignon shiraz,24
+tempranillo,23
 pinot grigio,21
-tempranillo,21
+sauvignon blanc semillon,20
 pinot gris,19
-sauvignon blanc semillon blend,19
-cabernet sauvignon blend,16
-prosecco rose blend,15
-moscato,14
-white blend,13
-grenache shiraz blend,13
-sangiovese,13
-nero davola,8
+moscato,17
+sangiovese,16
+prosecco rose,15
+chardonnay pinot meunier pinot noir,13
+grenache shiraz,10
+sparkling,9
 malbec,8
-nebbiolo,7
-grenache syrah blend,7
+nebbiolo,8
+nero davola,8
 syrah,6
-viognier,5
-verdelho,5
-semillon,5
+semillon,6
 fiano,5
 gamay,5
-grenache blend,4
-vermentino,4
-cabernet sauvignon malbec blend,4
-chenin blanc,3
-sparkling,3
-merlot blend,3
-sparkling blend,3
-glera,3
-pinot noir blend,3
-rice wine,3
+viognier,5
+verdelho,5
+grenache syrah,5
+vermentino,5
+cabernet sauvignon malbec,4
 grillo,3
-shiraz blend,3
+chenin blanc,3
 pet nat,3
-sauvignon blanc blend,2
-garnacha,2
-shiraz viognier blend,2
-cabernet sauvignon merlot shiraz blend,2
-cabernet sauvignon malbec merlot blend,2
-cabernet sauvignon sangiovese blend,2
+rice wine,3
+glera,3
+brut,3
 gruner veltliner,2
-sangiovese blend,2
-riesling blend,2
-tempranillo blend,2
-sparkling white blend,2
-sparkling red blend,2
-riesling semillon viognier blend,1
-vermentino blend,1
-sauvignon blanc viognier blend,1
-sparkling chardonnay pinot noir blend,1
-pinot grigio pinot gris blend,1
-glera pinot noir blend,1
-semillon blend,1
-cabernet sauvignon sauvignon blanc verdelho blend,1
-chardonnay chenin blanc blend,1
-pinot noir riesling blend,1
-rose shiraz white blend,1
-merlot rose blend,1
-chardonnay chenin blanc semillon blend,1
-shiraz tempranillo blend,1
-sangiovese tempranillo blend,1
-rose blend,1
-pinot noir rose blend,1
-cabernet sauvignon grenache syrah blend,1
-sparkling shiraz blend,1
-grenache malbec shiraz blend,1
-pinot noir shiraz blend,1
-cabernet sauvignon garnacha merlot syrah tempranillo blend,1
-merlot sangiovese blend,1
-pinot gris pinot noir blend,1
-chardonnay semillon blend,1
-malbec merlot shiraz blend,1
-cabernet sauvignon rose sangiovese blend,1
-malbec sangiovese shiraz blend,1
-white red blend,1
-cabernet sauvignon malbec shiraz blend,1
-cabernet sauvignon syrah blend,1
-garnacha tempranillo blend,1
-malbec shiraz blend,1
-nebbiolo blend,1
-chardonnay shiraz blend,1
+shiraz viognier,2
+mataro,2
+garnacha,2
+gewurztraminer,2
+grenache mourvedre shiraz,2
+cabernet sauvignon sangiovese,2
+cabernet sauvignon malbec merlot,2
+cabernet sauvignon merlot shiraz,2
+pinot meunier,1
+sparkling brut,1
+glera pinot noir,1
+chardonnay semillon,1
+moscato sauvignon blanc,1
+chardonnay chenin blanc semillon,1
+gewurztraminer sauvignon blanc viognier,1
+chardonnay chenin blanc,1
+rose shiraz,1
+verdejo,1
+cabernet sauvignon petit verdot sauvignon blanc verdelho,1
+pinot grigio pinot gris,1
+sparkling chardonnay pinot noir,1
+moscato riesling semillon viognier,1
+pinot noir riesling,1
+grenache mataro,1
+malbec shiraz,1
+merlot sangiovese,1
+grenache mataro shiraz,1
+sangiovese tempranillo,1
+grenache pinot noir syrah,1
+pinot noir rose,1
+cabernet sauvignon grenache pinot noir syrah,1
+sparkling shiraz,1
+mourvedre,1
+petit verdot,1
+cabernet sauvignon merlot petit verdot,1
+grenache mourvedre syrah,1
+grenache malbec shiraz,1
+pinot noir shiraz,1
+cabernet sauvignon garnacha merlot syrah tempranillo,1
+shiraz tempranillo,1
+garnacha tempranillo,1
+pinot gris pinot meunier pinot noir,1
+malbec merlot shiraz,1
+cabernet sauvignon rose sangiovese,1
+malbec sangiovese shiraz,1
+petit verdot shiraz,1
+merlot rose,1
+cabernet sauvignon malbec shiraz,1
+cabernet sauvignon syrah,1
+grenache pinot gris,1
+cabernet sauvignon vranec,1
+cabernet sauvignon merlot vranec,1
+merlot vranec,1
+mourvedre shiraz,1
+chardonnay shiraz,1
