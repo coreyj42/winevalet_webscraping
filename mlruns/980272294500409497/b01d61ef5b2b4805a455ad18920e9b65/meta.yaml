@@ -1,0 +1,15 @@
+artifact_uri: file:///home/corey/dev/winevalet/winevalet_webscraping/mlruns/980272294500409497/b01d61ef5b2b4805a455ad18920e9b65/artifacts
+end_time: 1715338972299
+entry_point_name: ''
+experiment_id: '980272294500409497'
+lifecycle_stage: active
+run_id: b01d61ef5b2b4805a455ad18920e9b65
+run_name: useful-eel-901
+run_uuid: b01d61ef5b2b4805a455ad18920e9b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715338972271
+status: 3
+tags: []
+user_id: corey
