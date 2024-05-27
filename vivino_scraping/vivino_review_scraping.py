@@ -140,7 +140,7 @@ all_reviews_subset = []
 
 total_wines = len(vivino_hrefs_df)
 #total_wines = 2 # Used for testing
-starting_i = 1700
+starting_i = 1771
 #n_waits_limit = 3
 #n_rescrolls_limit = 5
 timeout_duration = 10  # Set the timeout duration
@@ -320,6 +320,7 @@ while starting_i < (total_wines -1):
             # Save progress after increments
             if products_scraped >= limit_before_saving:
                 i += 1 # used to start next loop at next i and correctly label saved file
+
                 raise TooLongSinceSaveException(f"!!!Scraped {limit_before_saving} products without saving.")
     
     except Exception as e:
@@ -338,6 +339,7 @@ while starting_i < (total_wines -1):
             "all_reviews" : all_reviews_subset,
         }
         vivino_reviews_df = pd.DataFrame(vivino_reviews_df)
+        
     
         # save df to csv
         if finished:
@@ -348,7 +350,15 @@ while starting_i < (total_wines -1):
         vivino_reviews_df.to_csv(file_path, index=False)
     
         starting_i = i
-    
+
+        # clear lists for dataframe
+        dm_hrefs_subset = []
+        dm_brand_name_subsets = []
+        dm_product_name_subsets = []
+        dm_vintage_years_subset = []
+        vivino_hrefs_subset = []
+        all_reviews_subset = []
+
         time.sleep(2)
     
 # Close the webpage
