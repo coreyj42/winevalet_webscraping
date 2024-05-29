@@ -140,7 +140,7 @@ all_reviews_subset = []
 
 total_wines = len(vivino_hrefs_df)
 #total_wines = 2 # Used for testing
-starting_i = 1771
+starting_i = 3008
 #n_waits_limit = 3
 #n_rescrolls_limit = 5
 timeout_duration = 10  # Set the timeout duration
@@ -343,9 +343,9 @@ while starting_i < (total_wines -1):
     
         # save df to csv
         if finished:
-            file_path = f"../data/vivino/user_resviews_subsets/vivino_user_reviews_dataset_i_{starting_i}-{i}.csv"
+            file_path = f"../data/vivino/user_reviews_subsets/vivino_user_reviews_dataset_i_{starting_i}-{i}.csv"
         else:
-            file_path = f"../data/vivino/user_resviews_subsets/vivino_user_reviews_dataset_i_{starting_i}-{i-1}.csv"
+            file_path = f"../data/vivino/user_reviews_subsets/vivino_user_reviews_dataset_i_{starting_i}-{i-1}.csv"
         print(f"Saving results to {file_path}...")
         vivino_reviews_df.to_csv(file_path, index=False)
     
