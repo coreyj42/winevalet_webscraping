@@ -140,7 +140,7 @@ all_reviews_subset = []
 
 total_wines = len(vivino_hrefs_df)
 #total_wines = 2 # Used for testing
-starting_i = 3008
+starting_i = 3795
 #n_waits_limit = 3
 #n_rescrolls_limit = 5
 timeout_duration = 10  # Set the timeout duration
