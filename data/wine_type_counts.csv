@@ -7,26 +7,26 @@ pinot noir,410
 sauvignon blanc,300
 riesling,219
 rose,189
-cabernet sauvignon merlot,144
+"cabernet sauvignon, merlot",144
 red blend,125
 grenache,120
 merlot,116
-chardonnay pinot noir,114
+"chardonnay, pinot noir",114
 tempranillo,111
 pinot grigio,109
 pinot gris,103
-cabernet sauvignon shiraz,92
-prosecco rose,89
+"cabernet sauvignon, shiraz",92
+"prosecco, rose",89
 moscato,88
-sauvignon blanc semillon,82
+"sauvignon blanc, semillon",82
 sangiovese,64
 malbec,61
-chardonnay pinot meunier pinot noir,55
+"chardonnay, pinot meunier, pinot noir",55
 white blend,45
 nebbiolo,41
 sparkling,39
 semillon,35
-grenache shiraz,31
+"grenache, shiraz",31
 vermentino,31
 syrah,30
 gamay,29
@@ -34,151 +34,151 @@ nero davola,25
 montepulciano,25
 verdelho,24
 fiano,21
-grenache syrah,18
+"grenache, syrah",18
 glera,17
 pet nat,17
-cabernet sauvignon malbec,15
+"cabernet sauvignon, malbec",15
 viognier,14
 gruner veltliner,14
-cabernet sauvignon merlot shiraz,13
+"cabernet sauvignon, merlot, shiraz",13
 garnacha,13
-sparkling rose,12
+"sparkling, rose",12
 chenin blanc,12
 durif,12
 macabeo,11
 barbera,11
 champagne,10
 rice wine,10
-cabernet sauvignon merlot petit verdot,9
-grenache syrah cinsault,9
-grenache mourvedre shiraz,9
+"cabernet sauvignon, merlot, petit verdot",9
+"grenache, syrah, cinsault",9
+"grenache, mourvedre, shiraz",9
 vranec,8
 marsanne,8
-shiraz viognier,7
-cabernet sauvignon sangiovese,6
+"shiraz, viognier",7
+"cabernet sauvignon, sangiovese",6
 grillo,6
 verdejo,6
-brut cuvee,6
+"brut, cuvee",6
 brut,5
-cabernet sauvignon malbec merlot,5
+"cabernet sauvignon, malbec, merlot",5
 mourvedre,5
 gewurztraminer,5
 mataro,5
-malbec shiraz,5
-pinot noir rose,5
-grenache mataro shiraz,4
+"malbec, shiraz",5
+"pinot noir, rose",5
+"grenache, mataro, shiraz",4
 petit verdot,4
-grenache tempranillo,4
-grenache mourvedre syrah,4
-chardonnay semillon,4
-pinot noir shiraz,4
-grenache rose,4
-pinot grigio pinot gris,4
-sparkling shiraz,4
-shiraz tempranillo,4
-grenache mataro,4
+"grenache, tempranillo",4
+"grenache, mourvedre, syrah",4
+"chardonnay, semillon",4
+"pinot noir, shiraz",4
+"grenache, rose",4
+"pinot grigio, pinot gris",4
+"sparkling, shiraz",4
+"shiraz, tempranillo",4
+"grenache, mataro",4
 roussanne,4
-grenache cinsault,4
+"grenache, cinsault",4
 pinot meunier,3
-cabernet sauvignon malbec merlot petit verdot,3
-cabernet sauvignon malbec shiraz,3
-garnacha tempranillo,3
-chardonnay pinot gris,2
-chardonnay chenin blanc,2
-moscato riesling semillon viognier,2
-chardonnay chenin blanc semillon,2
-cabernet sauvignon rose,2
-cabernet sauvignon syrah,2
-cabernet sauvignon petit verdot,2
-pinot gris sauvignon blanc semillon,2
-grenache mourvedre cinsault,2
-brut rose,2
-sparkling moscato,2
-sangiovese shiraz,2
-malbec merlot,2
-merlot sangiovese,2
-cabernet sauvignon vranec,2
-grenache durif,1
-gamay pinot noir,1
-pinot meunier shiraz,1
-cabernet sauvignon rose shiraz,1
-malbec sangiovese shiraz,1
-grenache merlot syrah,1
-mourvedre durif,1
-merlot sangiovese shiraz,1
-malbec merlot shiraz,1
-tempranillo montepulciano,1
-pinot gris pinot meunier pinot noir,1
-cabernet sauvignon grenache,1
-cabernet sauvignon grenache merlot tempranillo,1
-cabernet sauvignon garnacha merlot syrah tempranillo,1
-rose shiraz,1
-grenache merlot pinot noir syrah,1
-pet nat rose,1
-shiraz cuvee,1
-grenache mourvedre,1
-syrah tempranillo,1
-mourvedre shiraz cinsault,1
-merlot vranec,1
-merlot pinot noir,1
-cabernet sauvignon merlot vranec,1
-cabernet sauvignon mourvedre syrah,1
-grenache shiraz viognier,1
-grenache malbec mourvedre shiraz,1
-nebbiolo shiraz,1
-cabernet sauvignon syrah tempranillo,1
-cabernet sauvignon tempranillo,1
-grenache mourvedre pinot noir,1
+"cabernet sauvignon, malbec, merlot, petit verdot",3
+"cabernet sauvignon, malbec, shiraz",3
+"garnacha, tempranillo",3
+"chardonnay, pinot gris",2
+"chardonnay, chenin blanc",2
+"moscato, riesling, semillon, viognier",2
+"chardonnay, chenin blanc, semillon",2
+"cabernet sauvignon, rose",2
+"cabernet sauvignon, syrah",2
+"cabernet sauvignon, petit verdot",2
+"pinot gris, sauvignon blanc, semillon",2
+"grenache, mourvedre, cinsault",2
+"brut, rose",2
+"sparkling, moscato",2
+"sangiovese, shiraz",2
+"malbec, merlot",2
+"merlot, sangiovese",2
+"cabernet sauvignon, vranec",2
+"grenache, durif",1
+"gamay, pinot noir",1
+"pinot meunier, shiraz",1
+"cabernet sauvignon, rose, shiraz",1
+"malbec, sangiovese, shiraz",1
+"grenache, merlot, syrah",1
+"mourvedre, durif",1
+"merlot, sangiovese, shiraz",1
+"malbec, merlot, shiraz",1
+"tempranillo, montepulciano",1
+"pinot gris, pinot meunier, pinot noir",1
+"cabernet sauvignon, grenache",1
+"cabernet sauvignon, grenache, merlot, tempranillo",1
+"cabernet sauvignon, garnacha, merlot, syrah, tempranillo",1
+"rose, shiraz",1
+"grenache, merlot, pinot noir, syrah",1
+"pet nat, rose",1
+"shiraz, cuvee",1
+"grenache, mourvedre",1
+"syrah, tempranillo",1
+"mourvedre, shiraz, cinsault",1
+"merlot, vranec",1
+"merlot, pinot noir",1
+"cabernet sauvignon, merlot, vranec",1
+"cabernet sauvignon, mourvedre, syrah",1
+"grenache, shiraz, viognier",1
+"grenache, malbec, mourvedre, shiraz",1
+"nebbiolo, shiraz",1
+"cabernet sauvignon, syrah, tempranillo",1
+"cabernet sauvignon, tempranillo",1
+"grenache, mourvedre, pinot noir",1
 cinsault,1
-merlot rose,1
-cabernet sauvignon merlot pinot noir,1
-grenache mataro syrah,1
-cabernet sauvignon merlot barbera,1
-garnacha syrah,1
-sparkling chardonnay pinot noir,1
-merlot petit verdot shiraz,1
-chardonnay malbec,1
-viognier marsanne roussanne,1
-chardonnay moscato,1
-pinot gris sauvignon blanc,1
-viognier marsanne,1
-marsanne roussanne,1
-grenache marsanne roussanne,1
-gewurztraminer sauvignon blanc viognier,1
-sauvignon blanc verdelho,1
-sparkling chenin blanc,1
-sangiovese tempranillo,1
-grenache malbec shiraz,1
-cabernet sauvignon grenache syrah cinsault,1
-grenache mataro pinot noir,1
-mataro shiraz,1
-grenache sangiovese,1
-grenache shiraz tempranillo viognier,1
-chardonnay riesling,1
-chardonnay semillon viognier,1
-chardonnay viognier,1
-grenache roussanne,1
-fiano moscato,1
-cabernet sauvignon chardonnay,1
-chardonnay macabeo,1
-moscato sauvignon blanc,1
-pinot gris pinot noir,1
-grenache pinot noir syrah cinsault,1
-pinot noir cuvee,1
-grenache mourvedre syrah cinsault,1
-grenache pinot noir,1
-malbec petit verdot,1
-grenache syrah vermentino cinsault,1
-grenache rose syrah cinsault,1
-cabernet sauvignon grenache pinot noir syrah,1
-chardonnay pinot gris pinot noir,1
-sparkling chardonnay,1
-glera prosecco rose,1
-sparkling brut,1
-chardonnay pinot gris pinot meunier pinot noir,1
-chardonnay pinot noir verdelho,1
-glera pinot noir,1
-cabernet sauvignon chardonnay chenin blanc pinot noir,1
-rose cuvee,1
-sparkling pinot noir,1
-grenache malbec tempranillo,1
+"merlot, rose",1
+"cabernet sauvignon, merlot, pinot noir",1
+"grenache, mataro, syrah",1
+"cabernet sauvignon, merlot, barbera",1
+"garnacha, syrah",1
+"sparkling, chardonnay, pinot noir",1
+"merlot, petit verdot, shiraz",1
+"chardonnay, malbec",1
+"viognier, marsanne, roussanne",1
+"chardonnay, moscato",1
+"pinot gris, sauvignon blanc",1
+"viognier, marsanne",1
+"marsanne, roussanne",1
+"grenache, marsanne, roussanne",1
+"gewurztraminer, sauvignon blanc, viognier",1
+"sauvignon blanc, verdelho",1
+"sparkling, chenin blanc",1
+"sangiovese, tempranillo",1
+"grenache, malbec, shiraz",1
+"cabernet sauvignon, grenache, syrah, cinsault",1
+"grenache, mataro, pinot noir",1
+"mataro, shiraz",1
+"grenache, sangiovese",1
+"grenache, shiraz, tempranillo, viognier",1
+"chardonnay, riesling",1
+"chardonnay, semillon, viognier",1
+"chardonnay, viognier",1
+"grenache, roussanne",1
+"fiano, moscato",1
+"cabernet sauvignon, chardonnay",1
+"chardonnay, macabeo",1
+"moscato, sauvignon blanc",1
+"pinot gris, pinot noir",1
+"grenache, pinot noir, syrah, cinsault",1
+"pinot noir, cuvee",1
+"grenache, mourvedre, syrah, cinsault",1
+"grenache, pinot noir",1
+"malbec, petit verdot",1
+"grenache, syrah, vermentino, cinsault",1
+"grenache, rose, syrah, cinsault",1
+"cabernet sauvignon, grenache, pinot noir, syrah",1
+"chardonnay, pinot gris, pinot noir",1
+"sparkling, chardonnay",1
+"glera, prosecco, rose",1
+"sparkling, brut",1
+"chardonnay, pinot gris, pinot meunier, pinot noir",1
+"chardonnay, pinot noir, verdelho",1
+"glera, pinot noir",1
+"cabernet sauvignon, chardonnay, chenin blanc, pinot noir",1
+"rose, cuvee",1
+"sparkling, pinot noir",1
+"grenache, malbec, tempranillo",1
